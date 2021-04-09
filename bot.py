@@ -1,6 +1,6 @@
 import config
 import telebot
-
+#dlfjjjjjjjjjfffjhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 bot = telebot.TeleBot(config.TOKEN)
 
 faculty=''
